@@ -8,7 +8,7 @@ In this lab, you will learn to use [Optuna](https://optuna.org/) to fine-tune a 
 To get started, install the required Python packages by running the following command in your terminal or command prompt:
 
 ```bash
-pip install optuna catboost pandas scikit-learn optuna-dashboard seaborn matplotlib
+pip install optuna catboostoptuna catboost pandas scikit-learn optuna-dashboard seaborn matplotlib
 ```
 
 What’s Installed:

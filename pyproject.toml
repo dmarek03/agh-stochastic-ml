@@ -32,6 +32,8 @@ dependencies = [
   "tqdm>=4.67.3",
   "scipy-stubs~=1.17.1",
   "pillow>=12.2.0",
+  "google-genai>=2.2.0",
+  "protobuf>=7.34.1",
 ]
 
 [tool.uv]
